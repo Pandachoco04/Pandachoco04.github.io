@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
+      "WEH DI NGA",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "CRUSH MO ::LANG AKO",
+    "FUCK YOU",
+    "MAG YES KA KINGINAMO",
+    "FUCK YOUUUUUUUUU",
+    "INAKA",
+    "MAKAKARMA KA RIN",
+    "SINUNGGALING",
+    "BAHALA KA SA BUHAY MO"
 ];
 
 let messageIndex = 0;
